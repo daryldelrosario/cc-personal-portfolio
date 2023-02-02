@@ -3,5 +3,11 @@ Creating a Personal Portoflio via CC instructions. Using this as practice, not o
 
 ## Version
 <details>
-    <summary>1.0.0</summary>   
+    <summary>1.0.0</summary>
+
+### Requirements   
+- [ ] Build a website using HTML and CSS
+- [ ] Add at least one interactive feature using JS
+- [ ] Main page features past projects
+- [ ] Create another page with contact information
 </details>
