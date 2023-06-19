@@ -408,6 +408,36 @@ article .icon {
     height: 2.5125rem;
 }
 
+/* FORM SECTION */
+.form-upper-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px orangered solid;
+    border-radius: 1rem;
+    width: 50vw;
+    margin: 1rem auto;
+    box-shadow: 0 0 22px rgba(255, 69, 0, 0.3);    
+}
+
+.form-info-container {
+    margin: 2rem;
+    width: 55%;
+}
+
+.input-box {
+    text-align: center;
+}
+
+input,
+textarea,
+button {
+    width: 88%;
+    margin: 3px;
+    font-family: "Poppins", sans-serif;
+    padding: 5px;
+}
+
 /* FOOTER SECTION */
 footer {
     height: 26vh;
