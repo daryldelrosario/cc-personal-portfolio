@@ -6,8 +6,10 @@ Creating a Personal Portoflio via CC instructions. Using this as practice, not o
 
 ## Features
 - deployed via Netlify
-- Basic HTML, CSS and JavaScript
-- Contact form page with pseudo-form
+- basic HTML, CSS and JavaScript
+- includes javascript interactivity task
+- front-face and side-face profile changes on hover
+- contact form page with pseudo-form
 
 ## Notes
 Tried to get firebase to connect to a simple contact html form but can not get them to connect just as yet. Will leave this project as is and revisit firebase at a later time.
